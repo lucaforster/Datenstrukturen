@@ -1,0 +1,15 @@
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\bin\Debug\net6.0\Datenstrukturen.exe
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\bin\Debug\net6.0\Datenstrukturen.deps.json
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\bin\Debug\net6.0\Datenstrukturen.runtimeconfig.json
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\bin\Debug\net6.0\Datenstrukturen.dll
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\bin\Debug\net6.0\Datenstrukturen.pdb
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.csproj.AssemblyReference.cache
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.AssemblyInfoInputs.cache
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.AssemblyInfo.cs
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.csproj.CoreCompileInputs.cache
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.dll
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\refint\Datenstrukturen.dll
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.pdb
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\Datenstrukturen.genruntimeconfig.cache
+C:\Users\astri\Documents\HTL\4bWI\SWP\Datenstrukturen\obj\Debug\net6.0\ref\Datenstrukturen.dll
